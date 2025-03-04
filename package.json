@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@stripe/react-stripe-js": "^3.3.0",
+    "@stripe/stripe-js": "^5.8.0",
     "clsx": "^2.1.1",
+    "dotenv": "^16.4.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0"
